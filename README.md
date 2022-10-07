@@ -45,17 +45,17 @@ After cleaning the dataset, the analysis should yield information on what genres
 
 #### Distribution of Profit Over Rating
 
-![Distribution of Profit and Movie Rating](./img/top10.png)
+![Distribution of Profit and Movie Rating](./img/profitperrating.png)
 
 After plotting the profit and rating together, it shows that they have no correlation, increasing profit not necessarily lead to higher profit.
 
-![Distribution of Number of Votes and Average Rating](./img/top10.png)
+![Distribution of Number of Votes and Average Rating](./img/rating_vs_numvotes.png)
 
 Similarly to the previous distribution, the number of votes and average rating also not shows any correlation.  
 
 #### Top 10 movies
 
-![Top 10 grossing movies](./img/top10.png)
+![Top 10 grossing movies](./img/top10movies.png)
 
 The above diagram shows the top 10 movies by worldwide grossing.
 Avangers: Infinity War came out as the top grossing movie with worldwide revenue a little over 2 billion $. Then followed by Jurassic World as second with around 1.6 billion $, and finally on the third place The Avangers with the total grossing of 1.5 billion.
@@ -143,20 +143,3 @@ The amount is in million $.
 This concludes my exploratory data analysis of IMDB data.
 
 ### Thank you.
-
-
-
-
-5. `.gitignore`
-   * A file called `.gitignore` at the root of the repository directory instructs Git to ignore large, unnecessary, or private files
-     * Because it starts with a `.`, you will need to type `ls -a` in the terminal in order to see that it is there
-   * GitHub maintains a [Python .gitignore](https://github.com/github/gitignore/blob/master/Python.gitignore) that may be a useful starting point for your version of this file
-   * To tell Git to ignore more files, just add a new line to `.gitignore` for each new file name
-     * Consider adding `.DS_Store` if you are using a Mac computer, as well as project-specific file names
-     * If you are running into an error message because you forgot to add something to `.gitignore` and it is too large to be pushed to GitHub [this blog post](https://medium.com/analytics-vidhya/tutorial-removing-large-files-from-git-78dbf4cf83a?sk=c3763d466c7f2528008c3777192dfb95)(friend link) should help you address this
-
-You wil submit a link to the GitHub repository on Canvas.
-
-See the [Grading](#grading) section for further explanation of how the GitHub repository will be graded.
-
-For further reading on creating professional notebooks and `README`s, check out [this reading](https://github.com/learn-co-curriculum/dsc-repo-readability-v2-2).
