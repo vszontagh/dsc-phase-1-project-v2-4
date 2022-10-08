@@ -108,32 +108,32 @@ In addition to these it would also worth to check the actors / actresses in movi
 
 Based on the analysis the following should be taken into consideration before entering the movie market:
 
-Most profitable genres to make movies are : 
-     * Action
-     * Animation
-     * Fantasy
-     * Adventure
-     * Romance
+<ul>Most profitable genres to make movies are: </ul> 
+     <li>Action</li>
+     <li>Animation</li>
+     <li>Fantasy</li>
+     <li>Adventure</li>
+     <li>Romance</li>
 
-Optimal length for top genres:
-    * Action movies is 133 mins 
-    * Animation is around 95 mins
-    * Fantasy - 119 mins 
-    * Adventure - 139 mins
-    * Romance - 110 mins
+<ul>Optimal length for top genres:</ul>
+    <li>Action movies - 133 mins </li>
+    <li>Animation - 95 mins</li>
+    <li>Fantasy - 119 mins</li>
+    <li>Adventure - 139 mins</li>
+    <li>Romance - 110 mins</li>
 
-Best time to release a movie: 
-    * March
-    * September 
-    * October 
-    * December
+<ul>Best time to release a movie:</ul>
+    <li>March</li>
+    <li>September</li>
+    <li>October</li> 
+    <li>December</li>
 
-Month to avoid release: 
-    * January 
-    * February 
-    * May 
-    * June
-    * July
+<ul>Month to avoid release:</ul>
+    <li>January</li>
+    <li>February</li>
+    <li>May</li> 
+    <li>June</li>
+    <li>July</li>
 
 In average for each genres the following initial investments are required if the company decides to make a movie in these catergories.
 The amount is in million $.
