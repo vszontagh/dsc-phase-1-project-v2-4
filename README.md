@@ -108,37 +108,123 @@ In addition to these it would also worth to check the actors / actresses in movi
 
 Based on the analysis the following should be taken into consideration before entering the movie market:
 
-Most profitable genres to make movies are : 
-     Action
-     Animation
-     Fantasy
-     Adventure
-     Romance
+<ul>Most profitable genres to make movies are: 
+     <li>Action</li>
+     <li>Animation</li>
+     <li>Fantasy</li>
+     <li>Adventure</li>
+     <li>Romance</li>
+ </ul>
 
-Optimal length for top genres:
-    Action movies is 133 mins 
-    Animation is around 95 mins
-    Fantasy - 119 mins 
-    Adventure - 139 mins
-    Romance - 110 mins
+<ul>Optimal length for top genres:
+    <li>Action movies - 133 mins </li>
+    <li>Animation - 95 mins</li>
+    <li>Fantasy - 119 mins</li>
+    <li>Adventure - 139 mins</li>
+    <li>Romance - 110 mins</li>
+</ul>
+<ul>Best time to release a movie:
+    <li>March</li>
+    <li>September</li>
+    <li>October</li> 
+    <li>December</li>
+</ul>
 
-Best time to release a movie: 
-    March
-    September 
-    October 
-    December
-
-Month to avoid release: 
-    January 
-    February 
-    May 
-    June
-    July
+<ul>Month to avoid release:
+    <li>January</li>
+    <li>February</li>
+    <li>May</li> 
+    <li>June</li>
+    <li>July</li>
+</ul>
 
 In average for each genres the following initial investments are required if the company decides to make a movie in these catergories.
 The amount is in million $.
 
-![Average Initial Investment per Genres](./img/budget.png)
+<table>
+  <tr>
+    <th>Genre</th>
+    <th>AVG Budget (m$)</th>
+  </tr>
+  <tr>
+    <td>Animation</td>
+    <td>90.84</td>
+  </tr>
+<tr>
+    <td>Adventure</td>
+    <td>86.31</td>
+  </tr>
+<tr>
+    <td>Action</td>
+    <td>68.94</td>
+  </tr>
+<tr>
+    <td>Fantasy</td>
+    <td>48.60</td>
+  </tr>
+<tr>
+    <td>Family</td>
+    <td>45.56</td>
+  </tr>
+<tr>
+    <td>Sci-Fi</td>
+    <td>35.71</td>
+  </tr>
+<tr>
+    <td>Thriller</td>
+    <td>29.82</td>
+  </tr>
+<tr>
+    <td>Comedy</td>
+    <td>25.92</td>
+  </tr>
+<tr>
+    <td>Crime</td>
+    <td>24.84</td>
+  </tr>
+<tr>
+    <td>Romance</td>
+    <td>22.08</td>
+  </tr>
+<tr>
+    <td>Documentary</td>
+    <td>20.58</td>
+  </tr>
+<tr>
+    <td>Biography</td>
+    <td>18.46</td>
+  </tr>
+<tr>
+    <td>Music</td>
+    <td>18.00</td>
+  </tr>
+<tr>
+    <td>Drama</td>
+    <td>19.89</td>
+  </tr>
+<tr>
+    <td>Horror</td>
+    <td>14.06</td>
+  </tr>
+<tr>
+    <td>History</td>
+    <td>10.75</td>
+  </tr>
+<tr>
+    <td>Sport</td>
+    <td>8.667</td>
+  </tr>
+<tr>
+    <td>Musical</td>
+    <td>5.60</td>
+  </tr>
+<tr>
+    <td>Western</td>
+    <td>1.9</td>
+  </tr>
+
+</table>
+
 
 This concludes my exploratory data analysis of IMDB data.
 
