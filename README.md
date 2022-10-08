@@ -141,6 +141,89 @@ Based on the analysis the following should be taken into consideration before en
 In average for each genres the following initial investments are required if the company decides to make a movie in these catergories.
 The amount is in million $.
 
+<table>
+  <tr>
+    <th>Genre</th>
+    <th>AVG Budget (m$)</th>
+  </tr>
+  <tr>
+    <td>Animation</td>
+    <td>90.84</td>
+  </tr>
+<tr>
+    <td>Adventure</td>
+    <td>86.31</td>
+  </tr>
+<tr>
+    <td>Action</td>
+    <td>68.94</td>
+  </tr>
+<tr>
+    <td>Fantasy</td>
+    <td>48.60</td>
+  </tr>
+<tr>
+    <td>Family</td>
+    <td>45.56</td>
+  </tr>
+<tr>
+    <td>Sci-Fi</td>
+    <td>35.71</td>
+  </tr>
+<tr>
+    <td>Thriller</td>
+    <td>29.82</td>
+  </tr>
+<tr>
+    <td>Comedy</td>
+    <td>25.92</td>
+  </tr>
+<tr>
+    <td>Crime</td>
+    <td>24.84</td>
+  </tr>
+<tr>
+    <td>Romance</td>
+    <td>22.08</td>
+  </tr>
+<tr>
+    <td>Documentary</td>
+    <td>20.58</td>
+  </tr>
+<tr>
+    <td>Biography</td>
+    <td>18.46</td>
+  </tr>
+<tr>
+    <td>Music</td>
+    <td>18.00</td>
+  </tr>
+<tr>
+    <td>Drama</td>
+    <td>19.89</td>
+  </tr>
+<tr>
+    <td>Horror</td>
+    <td>14.06</td>
+  </tr>
+<tr>
+    <td>History</td>
+    <td>10.75</td>
+  </tr>
+<tr>
+    <td>Sport</td>
+    <td>8.667</td>
+  </tr>
+<tr>
+    <td>Musical</td>
+    <td>5.60</td>
+  </tr>
+<tr>
+    <td>Western</td>
+    <td>1.9</td>
+  </tr>
+
+</table>
 ![Average Initial Investment per Genres](./img/budget.png)
 
 This concludes my exploratory data analysis of IMDB data.
