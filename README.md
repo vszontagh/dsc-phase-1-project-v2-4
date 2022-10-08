@@ -224,7 +224,7 @@ The amount is in million $.
   </tr>
 
 </table>
-![Average Initial Investment per Genres](./img/budget.png)
+
 
 This concludes my exploratory data analysis of IMDB data.
 
